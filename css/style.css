@@ -132,7 +132,8 @@
     }
 
     .contact-me{
-        padding-bottom: 50px;
+        margin: 100px auto 100px auto;
+        padding: 25px auto 50px;
     }
 
     .conatct-msg{
