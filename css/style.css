@@ -132,7 +132,7 @@
     }
 
     .contact-me{
-        margin: 100px auto 100px auto;
+        margin: 50px auto 0 auto;
         padding: 25px 0 50px;
         width: 50%;
     }
@@ -142,8 +142,10 @@
     }
 
     .bottom-container{
+        margin: auto;
         background-color: #66BFBF;
-        line-height: 2;
+        padding-top: 15px;
+        width: 50%;
 
     }
 
@@ -161,6 +163,7 @@
         color: #ffffff;
         padding: 10px 20px 10px 20px;
         text-decoration: none;
+        size: 1rem;
       }
       
       .btn:hover {
@@ -174,14 +177,15 @@
       }
 
       .footer-link{
-
+        color: #11999E;
+        font-family: 'Montserrat', sans-serif;
+        text-decoration: none;
       }
 
       #cr{
        color: #EAF6F6;
        font-family: 'Montserrat', sans-serif;
        font-size: 0.75rem;
-       padding-bottom: 20px 0;
       }
 
     
