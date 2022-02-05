@@ -107,12 +107,19 @@
 
     }
 
+    .code-img{
+        height: 200px;
+        width: 200px;
+        float: left;
+        margin-right: 30px;
+    }
+
     .tourist-img{
         height: 250px;
         width: 250px;
         position: relative;
-        right: 50px;
-        float: left;
+        left: 25px;
+        float: right;
         
     }
 
