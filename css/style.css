@@ -72,7 +72,7 @@
         width: 70%;
         text-align: center;
         line-height: 2;
-        font-size: 16px;
+        font-size: 1.5rem;
     }
 
     .profile{
@@ -176,7 +176,7 @@
     .forward {
         cursor: pointer;
         position: relative;
-        margin-left: 900px;
+        margin-left: 60%;
         top: 48%;
         width: auto;
         margin-top: -23px;
